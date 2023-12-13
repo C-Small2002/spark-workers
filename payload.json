@@ -45,7 +45,7 @@
         }
       ],
       "stackType": "IPV4_ONLY",
-      "subnetwork": "projects/spark-371009/regions/europe-west1/subnetworks/default"
+      "subnetwork": "projects/infra-fortress-408014/regions/europe-west1/subnetworks/default"
     }
   ],
   "reservationAffinity": {
@@ -78,5 +78,5 @@
   "tags": {
     "items": []
   },
-  "zone": "projects/spark-371009/zones/europe-west1-b"
+  "zone": "projects/infra-fortress-408014/zones/europe-west1-b"
 }
